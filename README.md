@@ -1,4 +1,4 @@
-# automated-marketing-research-Using-online-customer-reviews
+# Automated-marketing-research-Using-online-customer-reviews
  Market structure analysis, Online customer reviews, Text mining
  # Paper
 # PPT
